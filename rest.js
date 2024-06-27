@@ -25,8 +25,8 @@
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                    title: 'Hello',
-                    body: 'You',
+                    title: 'Why Latin',
+                    body: 'I do not know how to read latin',
                     userId: 1
                 })
             })
@@ -46,8 +46,8 @@
                 },
                 body: JSON.stringify({
                     id: 12,
-                    title: 'Hello',
-                    body: 'You',
+                    title: 'Latin',
+                    body: 'everything is in latin',
                     userId: 1
                 })
             })
